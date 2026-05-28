@@ -1,0 +1,9 @@
+src/main/java/com/biblioteca/model/Libro.java
+src/main/java/com/biblioteca/model/Usuario.java
+src/main/java/com/biblioteca/model/Prestamo.java
+src/main/java/com/biblioteca/util/ConexionDB.java
+src/main/java/com/biblioteca/dao/PrestamoDAO.java
+src/main/java/com/biblioteca/dao/LibroDAO.java
+src/main/java/com/biblioteca/dao/UsuarioDAO.java
+src/main/java/com/biblioteca/service/BibliotecaService.java
+src/main/java/com/biblioteca/Main.java
